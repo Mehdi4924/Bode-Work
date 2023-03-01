@@ -1,0 +1,1 @@
+export {appData} from './appData'
